@@ -1,0 +1,2 @@
+# powershell
+upstox project
